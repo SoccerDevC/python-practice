@@ -1,0 +1,10 @@
+2025-01-29 11:40:45,180 this is the start and am entering 4 and 5
+2025-01-29 11:40:45,181 Executed successfully
+2025-01-29 11:40:45,839 this is the start and am entering 3 and 0
+2025-01-29 11:40:45,839 Error has happened
+2025-01-29 11:40:45,839 Exception has occureddivision by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_395277/958697927.py", line 4, in divbyzero
+    div = a/b
+          ~^~
+ZeroDivisionError: division by zero
